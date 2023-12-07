@@ -1,0 +1,17 @@
+2020-10-29 19:37:35,814 INFO c.z.u.ZExecution [main] Initializing the test - Read test cases from Cycle
+2020-10-29 19:38:07,044 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case1 - start
+2020-10-29 19:38:09,045 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case1 - complete
+2020-10-29 19:38:09,049 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case2 - start
+2020-10-29 19:38:11,050 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case2 - complete
+2020-10-29 19:38:11,897 ERROR c.z.u.ZephyrUtils [main] Exception occurred in reading test steps from the test case: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2020-10-29 19:38:11,898 ERROR c.z.u.ZExecution [main] Get Steps from execution failed..
+2020-10-29 20:02:24,078 INFO c.z.u.ZExecution [main] Initializing the test - Read test cases from Cycle
+2020-10-29 20:02:33,511 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case1 - start
+2020-10-29 20:02:35,513 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case1 - complete
+2020-10-29 20:02:35,517 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case2 - start
+2020-10-29 20:02:37,518 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case2 - complete
+2020-10-29 20:05:06,296 INFO c.z.u.ZExecution [main] Initializing the test - Read test cases from Cycle
+2020-10-29 20:05:13,727 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case1 - start
+2020-10-29 20:05:15,729 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case1 - complete
+2020-10-29 20:05:15,733 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case2 - start
+2020-10-29 20:05:17,733 INFO c.z.t.zephyrHelper_Test [main] Execution of Test case2 - complete
